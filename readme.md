@@ -8,5 +8,7 @@
 	- make
 	- `./bin/cpCloudMusic-darwin-amd64 --歌单名 --输出路径`
 - win 平台：
-	- 暂未支持.欢迎pr
+	- 暂未支持.
+
+#### 额...这....
 	

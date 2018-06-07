@@ -149,7 +149,7 @@ func GetDownloadedSongDetailWithSongID(sid SongID) (*SongDetail, error) {
 		return &SongDetail{
 			SID:          sid,
 			Name:         name,
-			FileNamePath: filepath.Join(downloadPath, filename),
+			FileNamePath: filepath.Join(downloadPath, rpath),
 			FileName:     filename,
 			Detail:       data,
 		}, nil

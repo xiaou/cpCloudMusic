@@ -1,0 +1,10 @@
+vendor
+cmd/cmd
+.DS_Store
+.refast
+.vscode
+.stfolder
+.stignore
+build
+release
+bin
